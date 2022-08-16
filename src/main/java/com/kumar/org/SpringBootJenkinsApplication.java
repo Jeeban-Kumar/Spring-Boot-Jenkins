@@ -14,7 +14,7 @@ public class SpringBootJenkinsApplication {
 		logger.info("good msg");
 		SpringApplication.run(SpringBootJenkinsApplication.class, args);
 		logger.info("good morning");
-			logger.info("good night");
+		logger.info("good night");
 	}
 
 }
