@@ -13,7 +13,7 @@ public class SpringBootJenkinsApplication {
 	public static void main(String[] args) {
 		logger.info("good msg");
 		SpringApplication.run(SpringBootJenkinsApplication.class, args);
-		logger.info("good msg2");
+		logger.info("good morning");
 	}
 
 }
