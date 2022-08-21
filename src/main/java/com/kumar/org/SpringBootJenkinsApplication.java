@@ -16,6 +16,7 @@ public class SpringBootJenkinsApplication {
 		logger.info("good morning");
 		logger.info("good night");
 		logger.info("hello everyone");
+		logger.info("hello new branch");
 	}
 
 }
